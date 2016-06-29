@@ -1,0 +1,11 @@
+<package>
+  <name>controlplugin</name>
+  <version>1.0.0</version>
+  <author>Matt Buckley</author>
+  <license>idklol</license>
+  <maintainer email="bucklemp@usc.edu">me</maintainer>
+  <description>A control package</description>
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
+
