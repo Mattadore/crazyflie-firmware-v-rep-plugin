@@ -6,6 +6,9 @@
   <maintainer email="bucklemp@usc.edu">me</maintainer>
   <description>A control package</description>
   <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>quad_simulation</build_depend>
+  <run_depend>quad_simulation</run_depend>
+
 
 </package>
 
